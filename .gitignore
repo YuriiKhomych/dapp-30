@@ -4,6 +4,7 @@ tags
 build
 dist
 **/build
+**/.secrets
 .DS_STORE
 tags.*
 dapp-30/day99-university
